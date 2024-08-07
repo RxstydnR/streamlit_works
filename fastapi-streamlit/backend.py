@@ -10,7 +10,7 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.schema import messages_from_dict
 from typing import List, Iterable, Any, AsyncIterable, Dict
 
-openai_api_key = "sk-proj-AuiiPS8Qx289XomYHP7sT3BlbkFJNVLHzRhM79Kp0yfskR2V"
+openai_api_key = "sk-"
 
 # FastAPI instance
 app = FastAPI()
